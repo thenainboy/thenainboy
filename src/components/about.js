@@ -22,7 +22,7 @@ const About = () => {
             </p>
           </div>
           <div className="image-wrapper">
-            <img src="https://github.com/thenainboy/thenainboy/blob/master/src/images/tnblogo.png" alt="about"></img>
+            <img src="https://github.com/thenainboy/thenainboy/blob/master/src/images/tnblogo.png" alt="about2"></img>
           </div>
         </div>
       </div>
