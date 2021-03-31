@@ -42,7 +42,7 @@ $ yarn
 $ gatsby develop
 ```
 
-#### Personalize page content in `/src/yourdata.js` & modify it as per your need.
+#### Personalize page content in `/src/mydata.js` & modify it as per your need.
 
 ```javascript
 /* Change this file to get your Personal Porfolio */
@@ -50,14 +50,14 @@ $ gatsby develop
 
 name:"Thenainboy",
 headerTagline: [
-    "Building digital",.... 
+    "Building ",.... 
 ]
 
 ```
 
 ## Deployment
 When you are done with the setup, you should host your website online.
-We highly recommend to read through the [Deploying on Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) docs for React.
+on vercel.app
 
 
 ## Technologies Used
