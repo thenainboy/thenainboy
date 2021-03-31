@@ -1,7 +1,6 @@
 import React from "react"
 import Fade from "react-reveal/Fade"
 import data from "../mydata"
-import prince from "../images/tnblogo.png"
 const About = () => {
   return (
     <div className="secion" id="about">
@@ -22,7 +21,7 @@ const About = () => {
             </p>
           </div>
           <div className="image-wrapper">
-            <img href="https://github.com/thenainboy/thenainboy/blob/master/src/images/tnblogo.png" alt="about2"></img>
+            <img href="https://github.com/thenainboy/thenainboy/blob/gh-pages/src/images/tnblogo.png" alt="about2"></img>
           </div>
         </div>
       </div>
