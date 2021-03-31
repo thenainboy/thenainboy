@@ -16,7 +16,7 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "TheNainBoy",
+  name: "TheNainBoy official",
   headerTagline: [
     //Line 1 For Header
     "Building A Team",

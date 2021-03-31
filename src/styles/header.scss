@@ -24,11 +24,11 @@
       text-align: center;
       line-height: 20px;
       @include media(">=phone", "<lgphone") {
-        font-size: 1.4rem;
+        font-size: 1.2rem;
         line-height: 10px;
       }
       @include media(">=lgphone", "<tablet") {
-        font-size: 1.4rem;
+        font-size: 1.2rem;
         line-height: 10px;
       }
       @include media(">=tablet", "<desktop") {
