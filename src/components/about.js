@@ -1,7 +1,6 @@
 import React from "react"
 import Fade from "react-reveal/Fade"
 import data from "../mydata"
-import prince from "../images/tnblogo.png"
 const About = () => {
   return (
     <div className="secion" id="about">
