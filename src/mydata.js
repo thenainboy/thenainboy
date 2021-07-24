@@ -30,7 +30,7 @@ export default {
     "All our dreams can come true, if we have the courage to pursue them",
 
   //Contact Email
-  contactEmail: "prince@loudcurtain.com" ,
+  contactEmail: "pnain4339@gmail.com" ,
   
   
 
